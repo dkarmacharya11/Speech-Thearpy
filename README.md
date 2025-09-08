@@ -1,1 +1,1 @@
-# Speech-Thearpy
+# Speech-therapy
